@@ -53,6 +53,7 @@ It uses **ArrayList** and **HashMap** for data storage and provides user interac
 ---
 
 ## 📂 Project Structure  
+```
 src/
 ├── Models/
 │ └── Products.java
