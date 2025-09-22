@@ -53,4 +53,14 @@ It uses **ArrayList** and **HashMap** for data storage and provides user interac
 ---
 
 ## 📂 Project Structure  
+src/
+├── Models/
+│ └── Products.java
+├── Service/
+│ ├── Food.java
+│ └── ElectricalAppliance.java
+├── Utils/
+│ └── [Helper classes]
+├── Storage.java
+└── Main.java
 
